@@ -1,5 +1,63 @@
 Neimenggu_dianxin-组播,#genre#
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="央视高清",内蒙古卫视
+http://111.127.157.187:51234/rtp/239.29.0.2:5000
+#EXTINF:-1 tvg-id="蒙语卫视" tvg-name="蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/蒙语卫视.png" group-title="央视高清",蒙语卫视
+http://111.127.157.187:51234/rtp/239.29.0.210:5000
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="央视高清",内蒙古经济生活
+http://111.127.157.187:51234/rtp/239.29.0.212:5000
+#EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古综合.png" group-title="卫视频道",内蒙古综合
+http://111.127.157.187:51234/rtp/239.29.0.208:5000
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" group-title="卫视频道",内蒙古文体娱乐
+http://111.127.157.187:51234/rtp/239.29.0.211:5000
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" group-title="卫视频道",内蒙古农牧
+http://111.127.157.187:51234/rtp/239.29.0.209:5000
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" group-title="卫视频道",内蒙古少儿
+http://111.127.157.187:51234/rtp/239.29.0.207:5000
+#EXTINF:-1 tvg-name="呼和浩特影视" tvg-logo="https://live.fanmingming.com/tv/呼和浩特影视.png" group-title="卫视频道",呼和浩特影视
+http://111.127.157.187:51234/rtp/239.29.0.37:5000
+#EXTINF:-1 tvg-name="呼和浩特综合" tvg-logo="https://live.fanmingming.com/tv/呼和浩特综合.png" group-title="卫视频道",呼和浩特综合
+http://111.127.157.187:51234/rtp/239.29.0.35:5000
+#EXTINF:-1 tvg-name="包头经济" tvg-logo="https://live.fanmingming.com/tv/包头经济.png" group-title="卫视频道",包头经济
+http://111.127.157.187:51234/rtp/239.29.0.204:5000
+#EXTINF:-1 tvg-name="包头生活服务" tvg-logo="https://live.fanmingming.com/tv/包头生活服务.png" group-title="卫视频道",包头生活服务
+http://111.127.157.187:51234/rtp/239.29.0.112:5000
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.com/tv/包头新闻综合.png" group-title="卫视频道",包头新闻综合
+http://111.127.157.187:51234/rtp/239.29.0.111:5000
+#EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://live.fanmingming.com/tv/乌海新闻综合.png" group-title="卫视频道",乌海新闻综合
+http://111.127.157.187:51234/rtp/239.29.0.11:5000
+#EXTINF:-1 tvg-name="乌海都市生活" tvg-logo="https://live.fanmingming.com/tv/乌海都市生活.png" group-title="卫视频道",乌海都市生活
+http://111.127.157.187:51234/rtp/239.29.0.12:5000
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://live.fanmingming.com/tv/赤峰新闻综合.png" group-title="卫视频道",赤峰新闻综合
+http://111.127.157.187:51234/rtp/239.29.0.13:5000
+#EXTINF:-1 tvg-name="赤峰经济服务" tvg-logo="https://live.fanmingming.com/tv/赤峰经济服务.png" group-title="卫视频道",赤峰经济服务
+http://111.127.157.187:51234/rtp/239.29.0.14:5000
+#EXTINF:-1 tvg-name="赤峰影视娱乐" tvg-logo="https://live.fanmingming.com/tv/赤峰影视娱乐.png" group-title="卫视频道",赤峰影视娱乐
+http://111.127.157.187:51234/rtp/239.29.0.15:5000
+#EXTINF:-1 tvg-name="通辽城市服务" tvg-logo="https://live.fanmingming.com/tv/通辽城市服务.png" group-title="卫视频道",通辽城市服务
+http://111.127.157.187:51234/rtp/239.29.0.42:5000
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://live.fanmingming.com/tv/通辽新闻综合.png" group-title="卫视频道",通辽新闻综合
+http://111.127.157.187:51234/rtp/239.29.0.41:5000
+#EXTINF:-1 tvg-name="通辽蒙语" tvg-logo="https://live.fanmingming.com/tv/通辽蒙语.png" group-title="卫视频道",通辽蒙语
+http://111.127.157.187:51234/rtp/239.29.0.40:5000
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/呼伦贝尔新闻综合.png" group-title="卫视频道",呼伦贝尔新闻综合
+http://111.127.157.187:51234/rtp/239.29.0.19:5000
+#EXTINF:-1 tvg-name="呼伦贝尔文化旅游" tvg-logo="https://live.fanmingming.com/tv/呼伦贝尔文化旅游.png" group-title="卫视频道",呼伦贝尔文化旅游
+http://111.127.157.187:51234/rtp/239.29.0.20:5000
+#EXTINF:-1 tvg-name="呼伦贝尔生活资讯" tvg-logo="https://live.fanmingming.com/tv/呼伦贝尔生活资讯.png" group-title="卫视频道",呼伦贝尔生活资讯
+http://111.127.157.187:51234/rtp/239.29.0.21:5000
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/巴彦淖尔新闻综合.png" group-title="卫视频道",巴彦淖尔新闻综合
+http://111.127.157.187:51234/rtp/239.29.0.25:5000
+#EXTINF:-1 tvg-name="巴彦淖尔经济生活" tvg-logo="https://live.fanmingming.com/tv/巴彦淖尔经济生活.png" group-title="卫视频道",巴彦淖尔经济生活
+http://111.127.157.187:51234/rtp/239.29.0.26:5000
+#EXTINF:-1 tvg-name="巴彦淖尔影视娱乐" tvg-logo="https://live.fanmingming.com/tv/巴彦淖尔影视娱乐.png" group-title="卫视频道",巴彦淖尔影视娱乐
+http://111.127.157.187:51234/rtp/239.29.0.27:5000
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯新闻综合.png" group-title="卫视频道",鄂尔多斯新闻综合
+http://111.127.157.187:51234/rtp/239.29.0.30:5000
+#EXTINF:-1 tvg-name="鄂尔多斯经济服务" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯经济服务.png" group-title="卫视频道",鄂尔多斯经济服务
+http://111.127.157.187:51234/rtp/239.29.0.31:5000
+#EXTINF:-1 tvg-name="鄂尔多斯蒙语" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯蒙语.png" group-title="卫视频道",鄂尔多斯蒙语
+http://111.127.157.187:51234/rtp/239.29.0.33:5000
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="央视高清",内蒙古卫视
 http://121.56.186.21:4022/rtp/239.29.0.2:5000
 #EXTINF:-1 tvg-id="蒙语卫视" tvg-name="蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/蒙语卫视.png" group-title="央视高清",蒙语卫视
 http://121.56.186.21:4022/rtp/239.29.0.210:5000
